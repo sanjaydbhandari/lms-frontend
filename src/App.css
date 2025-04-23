@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* body {
+    margin: 0 auto;
+    max-width: 1440px;
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    scroll-behavior: smooth;
+} */
